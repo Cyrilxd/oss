@@ -60,3 +60,26 @@ info.kaio@be.ch
 
 Wildhainweg 9  
 3012 Berne
+
+-----------------------------------------------------
+
+# Open source platform of the Canton of Bern
+
+Since 2018, the cantonal ICT ordinance has explicitly allowed the Canton of Bern to offer its software as open source solutions and thus make it accessible to everyone free of charge. In principle, it is up to each directorate to decide whether it wants to release its applications.
+
+Companies and administrations in other cantons are also welcome to use and adapt the templates and processes. All content is available under an [open license (BSD-3)](LICENSE) and is partly based on open source sources. 
+
+We are happy to receive your [feedback](CONTRIBUTING.md) on the Canton of Bern's open source platform.
+
+## Content
+
+TBD
+
+## Contact
+
+Office for Information Technology and Organization of the Canton of Berne  
+Department Application Services 1
+info.kaio@be.ch
+
+Wildhainweg 9   
+3012 Bern
